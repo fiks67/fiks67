@@ -16,10 +16,10 @@ With a strong theoretical foundation and hands-on experience, I focus on designi
 
 ### 🛠️ Tech Stack & Tools
 *(Hapus atau tambahkan sesuai dengan teknologi yang Anda kuasai)*
-- **Frontend:** HTML5, CSS3, JavaScript, React / Next.js, Tailwind CSS
+- **Frontend:** HTML, CSS, JavaScript, React / Next.js
 - **Backend:** Node.js, Python, Express / FastAPI, REST APIs
 - **AI / ML Integration:** Python, OpenAI API, LangChain, TensorFlow / PyTorch
-- **Database & Tools:** MySQL, PostgreSQL, MongoDB, Git, Docker
+- **Database & Tools:** MySQL, PostgreSQL, MongoDB, Git, SQlite
 
 ---
 
